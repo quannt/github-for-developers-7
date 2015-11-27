@@ -1,2 +1,3 @@
 ### Introduction 
-Color : blue
+***Color : blue
+***Current City: Singapore
